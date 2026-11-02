@@ -1,0 +1,4 @@
+.env
+/demo-go-psql-redis
+__pycache__/
+.DS_Store
